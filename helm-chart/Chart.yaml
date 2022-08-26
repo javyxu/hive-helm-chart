@@ -1,0 +1,21 @@
+apiVersion: v2
+appVersion: "1.16.0"
+
+name: hive-metastore
+description: A helm chart to expose hive metastore on kubernetes with postgres for external metadata.
+
+maintainers:
+  - name: Javy
+    url: https://github.com/javyxu
+
+keywords:
+  - Hive
+  - Hive Metastore
+  - S3
+  - Minio
+  - Thrift
+  - Postgres
+
+type: application
+
+version: 1.0.0
